@@ -2,7 +2,7 @@
 #' ---
 #' title: "Analiza sentymentu oraz TF-IDF aplikacji randkowych"
 #' author: "Katarzyna Zrobek, Barbara Sawa, Maria Mich "
-#' date:   "07.06_2026"
+#' date:   "07.06.2026"
 #' output:
 #'   html_document:
 #'     df_print: paged
